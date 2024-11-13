@@ -1,0 +1,312 @@
+
+@media (max-width:1200px) {
+    #header_button{
+        display: none;
+    }
+    #text_part .content h3{
+        font-size:20px;
+    }
+    #text_part .content h2{
+        font-size:20px;
+    }
+    #text_part .content p{
+        font-size:14px;
+    }
+    #lulio{
+        width: 60%;
+        margin-top: 24px;
+    }
+    #card_part{
+        justify-content: center;
+    }
+    #client_part{
+        margin-bottom: 24px;
+    }
+    #mark{
+        width: 50%;
+    }
+}
+
+@media (max-width:992px) {
+    #header_logo{
+        padding: 0;
+    }
+    #hero_1 h1{
+        font-size: 25px;
+    }
+    #hero_1 p{
+        font-size: 20px;
+    }
+    #hero_1{
+        order:2;
+    }
+    #unique{
+        order: 1;
+    }
+    #btnn{
+        padding:8px 20px;
+        font-size: 18px;
+    }
+    #text_part{
+        width: 100%;
+        order: 2;
+        text-align: center;
+    }
+    #text_part .d-flex{
+        justify-content: center;
+    }
+    #image_part{
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    #card_image2{
+        width: 100%;
+        margin-top: 24px;
+    }
+    #card_image{
+        width: 100%;
+        margin-top: 24px;
+    }
+    #client_part .starts{
+        justify-content: center;
+    }
+    #nna{
+        margin-bottom: 24px;
+    }
+    #fjs{
+        display: none;
+    }
+    #rao{
+        width: 50%;
+    }
+    #charp{
+        width: 50%;
+    }
+    #hhha{
+        width: 100%;
+        margin-bottom: 24px;
+    }
+    #reee{
+        width: 50%;
+    }
+    #difff{
+        width: 60%;
+    }
+    #difff .testimonial-item{
+        margin-top: 0;
+    }
+    #reee .testimonial-item{
+        margin-top: 0;
+    }
+    #misss{
+        justify-content: center;
+    }
+    #lulf{
+        padding: 15px 15px;
+    }
+    #abess{
+        width: 50%;
+    } 
+    #abes{
+        width: 60%;
+        margin-top: 24px;
+    } 
+    #uye{
+        justify-content: center;
+    }
+    #phel{
+        width: 100%;
+    }
+    #phell{
+        width: 100%;
+    }
+    #form_part button{
+        width: 30%;
+    }
+    #form_part input{
+        width: 70%;
+    }
+}
+
+@media (max-width:768px) {
+    #hero_1{
+        width: 100%;
+    }
+    #unique{
+        width: 100%;
+    }
+    #hero_1 h1{
+        text-align: center;
+        font-size: 20px;
+    }
+    #hero_1 p{
+        text-align: center;
+        font-size: 15px;
+    }
+    #hero_1 .ouc{
+        justify-content: space-around;
+    }
+    #text_part .content{
+        padding:10px;
+    }
+    #btnn{
+        padding:5px 14px;
+        font-size: 14px;
+    }
+    #rao{
+        width: 100%;
+    }
+    #portfolio_part{
+        width: 50%;
+    }
+    #reee{
+        width: 100%;
+    }
+    #difff{
+        width: 100%;
+    }
+    #difff .testimonial-item{
+        margin-top: 12px;
+    }
+    #reee .testimonial-item{
+        margin-top: 12px;
+    }
+    #difff .testimonial-item{
+        margin-top: 12px;
+    }
+    #reee .testimonial-item{
+        margin-top: 12px;
+    }
+    #swiper{
+        display: none;
+    }
+    #sanss{
+        text-align: center;
+    }
+    #sanss .fufu{
+        justify-content: center;
+    }
+}
+
+@media (max-width:576px){
+    .container-fluid{
+        padding: 20px 0;
+    }
+    #llls{
+        width: 100%;
+    }
+    #llls .starts{
+        justify-content: center;
+    }
+    #charp{
+        width: 100%;
+    }
+    #portfolio_part{
+        width: 100%;
+    }
+    #same{
+        padding-bottom: 8px 10px;
+    }
+    #same p{
+        font-size: 16px;
+        text-align: center;
+    }
+    #mark{
+        width: 100%;
+    } 
+    #lllsk{
+        display: none;
+    }
+    #baha{
+        justify-content: space-around;
+    }
+    #lulf{
+        padding: 5px 5px;
+    }
+    .container .swiper .row .tod{
+        display: none;
+    }
+    .container .swiper .row .lol{
+        display: none;
+    }
+    #abess{
+        width: 100%;
+    } 
+    #abes{
+        width: 100%;
+    } 
+    #abes .card-body{
+        text-align: center;
+    }
+    #abes .meta{
+        justify-content: center;
+    }
+    #abes .gola{
+        justify-content: center;
+    }
+    #abess .card-body{
+        text-align: center;
+    }
+    #abess .meta{
+        justify-content: center;
+    }
+    #abess .gola{
+        justify-content: center;
+    }
+    #dars{
+        font-size: 25px;
+        text-align: center;
+    }
+    #lelw{
+        width: 100%;
+        text-align: center;
+    }
+}
+
+@media (max-width:346px){
+    #btnn{
+        font-size: 14px;
+    }
+    #nnans{
+        display: none;
+    }
+    #btnn i{
+        font-size: 14px;
+    }
+    #text_part .content h3{
+        font-size:20px;
+    }
+    #text_part .content h2{
+        font-size:14px;
+    }
+    #text_part .content p{
+        font-size:14px;
+    }
+    #text_part button{
+        padding:6px 20px;
+        font-size: 14px; 
+    }
+    #text_part button i{
+        font-size: 14px; 
+    }
+    #nnnu li{
+        display: none;
+    }
+    #form_part button{
+        width: 50%;
+    }
+    #form_part input{
+        width: 50%;
+    }
+} 
+
+@media (max-width:288px){
+    #hero_1 h1{
+        text-align: center;
+        font-size: 16px;
+    }
+    #hero_1 p{
+        text-align: center;
+        font-size: 15px;
+    }
+} 
